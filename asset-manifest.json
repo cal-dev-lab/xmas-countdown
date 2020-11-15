@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xmas-countdown/static/css/main.66177756.chunk.css",
+    "main.js": "/xmas-countdown/static/js/main.fba1efd6.chunk.js",
+    "main.js.map": "/xmas-countdown/static/js/main.fba1efd6.chunk.js.map",
+    "runtime-main.js": "/xmas-countdown/static/js/runtime-main.9b583f1a.js",
+    "runtime-main.js.map": "/xmas-countdown/static/js/runtime-main.9b583f1a.js.map",
+    "static/js/2.90fb8a35.chunk.js": "/xmas-countdown/static/js/2.90fb8a35.chunk.js",
+    "static/js/2.90fb8a35.chunk.js.map": "/xmas-countdown/static/js/2.90fb8a35.chunk.js.map",
+    "index.html": "/xmas-countdown/index.html",
+    "static/css/main.66177756.chunk.css.map": "/xmas-countdown/static/css/main.66177756.chunk.css.map",
+    "static/js/2.90fb8a35.chunk.js.LICENSE.txt": "/xmas-countdown/static/js/2.90fb8a35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b583f1a.js",
+    "static/js/2.90fb8a35.chunk.js",
+    "static/css/main.66177756.chunk.css",
+    "static/js/main.fba1efd6.chunk.js"
+  ]
+}
